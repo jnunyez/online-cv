@@ -77,34 +77,6 @@ studies:
 
 
 
-experiences:
-    title: Experiences
-    
-    experiences:
-        - role: Technology Expert
-          time: 2017 - Present
-          company: Telefonica
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-
-        - role: Senior Researcher
-          time: 2014 - 2017
-          company: CTTC
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-         
-        - role: Research Engineer
-          time: 2007 - 2014
-          company: CTTC
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-       
-       - role: Research Engineer
-         time: 2005-2007
-         company: UPC
-         details: IT and network engineer.
-
-       - role: Research Assistant
-         time: 2003-2005
-         company: UPC
-         details: Mobile IPv6 kernel developer and teaching assistant
 projects:
     title: Projects
     intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
