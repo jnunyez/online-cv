@@ -32,7 +32,7 @@ sidebar:
         
     interests:
         - interest:
-          item: Crossfit, Fitness
+          item: Fitness
           link:
         - interest:
           item: Gaming
@@ -43,7 +43,9 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: 'I currently work as a Tech Lead/Expert in Telefonica Core Innovation. Prior to this, I was a senior researcher in the Mobile Networks department of Centro Tecnológico de Telecomunicaciones de Cataluña (CTTC) since 2007. Received the BsC in 2005 and the MsC in 2007 from the Computer Architecture Department from the Universidad Politécnica de Cataluña (UPC). In 2008, I received the national scholarship from the Torres Quevedo subprogram (PTQ-08- 01-06440). In 2014 he received the PhD from the Computer Architecture Department of the UPC.
+His current activities are based on devising SDN/NFV architectures for 5G mobile networks. He has a vast experience in building proof-of-concepts that can validate the efficiency of theoretical concepts developed in a more fundamental research environment I was in charge of designing SDN, NFV, and Adhoc military networking solutions for emerging 5G deployments. Amongst other activities, in previous work the researcher designed and implemented a routing protocol specific for the 3G wireless mesh backhaul formed amongst Small Cells. I also participated in the implementation of bonding IP solutions for Videconferencing. I leaded the design and implemented backhaul routing algorithms for ring aggregation backhaul for Aviat networks. I have co- authored more than 50 international conference and journal publications.
+Prior to joining CTTC, I worked for three years as a research networking engineer in the Advanced Broadband Communications Center within UPC. I worked as network and IT administrator of the research group. During this period, he combined the aforementioned tasks with kernel network and application development.'
 
 
 studies: 
@@ -52,28 +54,16 @@ studies:
       degree: PhD in Telecommunications
       university: University Politecnica de Catalunya
       time: 2008 - 2014
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
-      
+         
     - education:
       degree: MSc in Computer Science
       university: University Politecnica de Catalunya
       time: 2007
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
-    
+          
     - education:
       degree: BSc in Computer Science
       university: Bristol University
       time: 2005
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
 
 
 experiences:
@@ -88,95 +78,23 @@ experiences:
         - role: Senior Researcher
           time: 2014 - 2017
           company: CTTC, Castelldefels
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+          details: 5G Research and Technical project management activities.
         
         - role: Research Engineer
           time: 2017 - 2014
           company: CTTC, Castelldefels
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+          details: Phd Student. Wireless Prototyping.
 
         - role: Research Engineer
           time: 2005 - 2007
           company: UPC, Barcelona
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+          details: Network and IT administrator.
 
         - role: Research Assistant
           time: 2003 - 2005
           company: UPC, Barcelona
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+          details: Teaching assistant. Kernel developer. 
     
-projects:
-    title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    projects:
-      - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-      - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-
-
-
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-
-skills:
-    title: Skills &amp; Proficiency
-    skills:
-        - skill:
-          name: Python & Django
-          level: 98%
-        - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
-          level: 85%
-        - skill:
-          name: Sketch & Photoshop
-          level: 60%
-
 
 footer: 
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
