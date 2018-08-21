@@ -16,7 +16,7 @@ sidebar:
     # Sidebar links
     email: jonunyez@gmail.com
     phone: +34 605 393 348
-    website: blog.webjeda.com #do not add http://
+    website: github.com/jnunyez/online-cv/ #do not add http://
     linkedin: jnunyez
     github: jnunyez
     twitter: '@jnunyez'
@@ -30,17 +30,6 @@ sidebar:
           level: Professional
         
         
-    interests:
-        - interest:
-          item: Fitness
-          link:
-        - interest:
-          item: Gaming
-          link:
-        - interest:
-          item: Cooking
-          link:
-
 career-profile: 
     title: Career Profile
     text: 'I currently work as a Tech Lead/Expert in Telefonica Core Innovation. Prior to this, I was a senior researcher in the Mobile Networks department of Centro Tecnológico de Telecomunicaciones de Cataluña (CTTC) since 2007. Received the BsC in 2005 and the MsC in 2007 from the Computer Architecture Department from the Universidad Politécnica de Cataluña (UPC). In 2008, I received the national scholarship from the Torres Quevedo subprogram (PTQ-08- 01-06440). In 2014 he received the PhD from the Computer Architecture Department of the UPC.
@@ -62,7 +51,7 @@ studies:
           
     - education:
       degree: BSc in Computer Science
-      university: Bristol University
+      university: University Politecnica de Catalunya
       time: 2005
 
 
@@ -73,12 +62,12 @@ experiences:
         - role: Technological Expert
           time: 2017 - Present
           company: Telefonica, Barcelona
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+          details: DevOps/RF all-in-one Engineer pursuing telco innovation. Leading pre-production network+IT deployments. Mixing vendors.  
 
         - role: Senior Researcher
           time: 2014 - 2017
           company: CTTC, Castelldefels
-          details: 5G Research and Technical project management activities.
+          details: 5G Research. Technical project management.
         
         - role: Research Engineer
           time: 2017 - 2014
