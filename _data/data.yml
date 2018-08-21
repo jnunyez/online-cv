@@ -10,7 +10,7 @@ sidebar:
     
     # Profile information
     name: Jose Nuñez
-    tagline: Tech Lead/Expert
+    tagline: Technology Expert at Telefonica Core Innovation.
     pic: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -32,7 +32,7 @@ sidebar:
         
 career-profile: 
     title: Career Profile
-    text: 'I currently work as a Tech Lead/Expert in Telefonica Core Innovation. Prior to this, I was a senior researcher in the Mobile Networks department of Centro Tecnológico de Telecomunicaciones de Cataluña (CTTC) since 2007. Received the BsC in 2005 and the MsC in 2007 from the Computer Architecture Department from the Universidad Politécnica de Cataluña (UPC). In 2008, I received the national scholarship from the Torres Quevedo subprogram (PTQ-08- 01-06440). In 2014 he received the PhD from the Computer Architecture Department of the UPC.
+    text: 'I currently work as a Technology Lead/Expert in Telefonica Core Innovation. Prior to this, I was a senior researcher in the Mobile Networks department of Centro Tecnológico de Telecomunicaciones de Cataluña (CTTC) since 2007. Received the BsC in 2005 and the MsC in 2007 from the Computer Architecture Department from the Universidad Politécnica de Cataluña (UPC). In 2008, I received the national scholarship from the Torres Quevedo subprogram (PTQ-08- 01-06440). In 2014 he received the PhD from the Computer Architecture Department of the UPC.
 His current activities are based on devising SDN/NFV architectures for 5G mobile networks. He has a vast experience in building proof-of-concepts that can validate the efficiency of theoretical concepts developed in a more fundamental research environment I was in charge of designing SDN, NFV, and Adhoc military networking solutions for emerging 5G deployments. Amongst other activities, in previous work the researcher designed and implemented a routing protocol specific for the 3G wireless mesh backhaul formed amongst Small Cells. I also participated in the implementation of bonding IP solutions for Videconferencing. I leaded the design and implemented backhaul routing algorithms for ring aggregation backhaul for Aviat networks. I have co- authored more than 50 international conference and journal publications.
 Prior to joining CTTC, I worked for three years as a research networking engineer in the Advanced Broadband Communications Center within UPC. I worked as network and IT administrator of the research group. During this period, he combined the aforementioned tasks with kernel network and application development.'
 
