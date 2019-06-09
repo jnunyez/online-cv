@@ -32,7 +32,7 @@ sidebar:
         
 career-profile: 
     title: Career Profile
-    text: 'I currently work as a Senior Technology Expert/Researcher in Telefonica Core Innovation. Prior to this, I was a senior researcher in the Mobile Networks department of Centro Tecnológico de Telecomunicaciones de Cataluña (CTTC). I received the BsC in 2005 and the MsC in 2007 from the Computer Architecture Department from the Universidad Politécnica de Cataluña (UPC). In 2008, I received the national scholarship from the Torres Quevedo subprogram (PTQ-08- 01-06440). In 2014 he received the PhD from the Computer Architecture Department of the UPC.
+    text: 'I currently work as a Senior Technology Expert/Researcher in Telefonica Core Innovation. My work is based on bridging the gap between telco and cloud by pursuing the automatization of telco functions and processes to cloud environments. Prior to this, I was a senior researcher in the Mobile Networks department of Centro Tecnológico de Telecomunicaciones de Cataluña (CTTC). I received the BsC in 2005 and the MsC in 2007 from the Computer Architecture Department from the Universidad Politécnica de Cataluña (UPC). In 2008, I received the national scholarship from the Torres Quevedo subprogram (PTQ-08- 01-06440). In 2014 he received the PhD from the Computer Architecture Department of the UPC.
 In CTTC my work was based on devising PoC for 3G/4G/5G mobile networks: I have a vast experience in building proof-of-concepts that can validate the efficiency of theoretical concepts developed in a more fundamental research environment. During this period I also worked in pre-production environments with vendors such as Cisco, and Aviat Networks applying researched solutions on bonding and backhauling. 
 Prior to joining CTTC, I worked for three years as a research networking engineer in the Advanced Broadband Communications Center within UPC. I worked as network and IT administrator of the research group. During this period, I combined the network + IT admin tasks with kernel development extending and testing Mobile IPv6 kernel code. I have co- authored more than 50 international conference and journal publications.'
 
@@ -61,17 +61,17 @@ experiences:
     experiences:
         - role: Senior Technological Expert/Researcher
           time: September 2018 -Present
-          details: DevOps/RF Engineer/Researcher pursuing telco innovation. Pre-production and production cloud deployments. More vendor, cloud provider mixing (yes, more)
+          details: DevOps/RF Engineer/Researcher pursuing telco innovation (usually I play with: Packerization tools like Packer, Private cloud providers like Openstack, public cloud providers like AWS, orchestration tools K8s; IaC tools like terraform and pulumi, device configuration automation: ansible, salt, secrets management: Vault, docker) 
           
         - role: Technological Expert
           time: 2017 - 2018
           company: Telefonica, Barcelona
-          details: DevOps/RF all-in-one Engineer pursuing telco innovation. Leading pre-production network+IT deployments. Mixing vendors (yes, for real) :-)) 
+          details: DevOps/RF all-in-one Engineer pursuing telco innovation (played with openstack, docker, terraform, ansible). 
 
         - role: Senior Researcher
           time: 2014 - 2017
           company: CTTC, Castelldefels
-          details: 5G Research. Technical project management.
+          details: 5G Research. Technical project management (H2020 Crosshaul, H2020 SCAVENGE, H2020 SANSA)
         
         - role: Research Engineer
           time: 2017 - 2014
