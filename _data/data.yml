@@ -61,7 +61,7 @@ experiences:
     experiences:
         - role: Senior Technological Expert/Researcher
           time: September 2018 -Present
-          details: DevOps/RF Engineer/Researcher pursuing telco innovation. Usually playing with: Packerization tools like Packer, Private/public cloud providers like Openstack or AWS, orchestration tools such as K8s; IaC tools like terraform and pulumi, device configuration automation: ansible, salt, secrets management: Vault, docker). 
+          details: DevOps/RF Engineer/Researcher pursuing telco innovation. Usually playing with packer, Openstack, AWS, K8s, Terraform, Pulumi, Ansible, Salt,Vault, and Docker.  
           
         - role: Technological Expert
           time: 2017 - 2018
