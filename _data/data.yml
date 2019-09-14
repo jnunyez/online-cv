@@ -93,9 +93,9 @@ publications:
       A list of my recent publications follow.
 
     publications:
-        - title: Towards Backpressure Routing in Wireless Mesh Backhauls for Dense LTE Deployments.
-          authors: jose
-          conference: sigcom
+        - title: 'Towards Backpressure Routing in Wireless Mesh Backhauls for Dense LTE Deployments.'
+          authors: 'Natalle Patriciello, José Núñez-Martínez, Jorge Baranda, Maurizio Casoni, Josep Mangues Bafalluy.'
+          conference: '2019 Wimob'
        
 footer: 
     text: 'Updated: September 2019'
