@@ -92,8 +92,10 @@ publications:
     title: Publications
     intro: | 
       A list of my more recent publications follow. For a complete list of publications see my google scholar.
-    
     papers:
+      - title: A
+        authors: b
+        conference: D
       - title: Towards Backpressure Routing in Wireless Mesh Backhauls for Dense LTE Deployments.
         authors: Natalle Patriciello, José Núñez-Martínez, Jorge Baranda, Maurizio Casoni, Josep Mangues Bafalluy.
         conference: 2019 International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob).
