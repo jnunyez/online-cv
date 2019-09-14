@@ -90,6 +90,8 @@ experiences:
     
 publications:
     title: Publications
+    intro: |
+      A list of my recent publications follow.
 
     papers:
       - title: A
