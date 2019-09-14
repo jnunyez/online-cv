@@ -90,7 +90,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      A list of my recent publications follow.
+      'Find below a list of my most recent publications. All my publications can be found at my google scholar profile.'
 
     publications:
         - title: 'Towards Backpressure Routing in Wireless Mesh Backhauls for Dense LTE Deployments.'
