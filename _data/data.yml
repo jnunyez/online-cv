@@ -93,17 +93,6 @@ publications:
       A list of my recent publications follow.
 
     publications:
-       - title: Towards Backpressure Routing in Wireless Mesh Backhauls for Dense LTE Deployments.
-         authors: Natalle Patriciello, José Núñez-Martínez, Jorge Baranda, Maurizio Casoni, Josep Mangues Bafalluy.
-         conference: 2019 International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob).
-        
-       - title: A Reality Check on Inference at Mobile Networks Edge.
-         authors: Alejandro Cartas, Martin Kocour, Aravindh Raman, Ilias Leontiadis, Jordi Luque, Nishanth Sastry, Jose Nuñez-Martinez, Diego Perino, Carlos Segura 
-         conference:  2019 International Workshop on EdgeSystems, Analytics and Networking (EdgeSys).
-        
-      - title: Experimental framework and Evaluation of the 5G-Crosshaul infrastructure.
-        authors: Josep Mangues-Bafalluy, Jorge Baranda, Giada Landi, José Núñez-Martínez, Ramon Casellas, Shahzoob Bilal Chundrigar, Antonio de la Oliva, Alain Mourad, Samer T Talat, Carla F Chiasserini, Josep X Salvat
-        conference: Journal Computer Standards & Interfaces.
-    
+       
 footer: 
     text: 'Updated: September 2019'
