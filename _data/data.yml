@@ -93,6 +93,9 @@ publications:
       A list of my recent publications follow.
 
     publications:
+        - title: paper1
+          authors: jose
+          conference: sigcom
        
 footer: 
     text: 'Updated: September 2019'
