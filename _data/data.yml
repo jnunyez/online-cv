@@ -92,7 +92,7 @@ publications:
     intro: |
       A list of my recent publications follow.
 
-    papers:
+    publications:
       - title: 'A'
         authors: 'b'
         conference: 'D'    
