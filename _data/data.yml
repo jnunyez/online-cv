@@ -59,6 +59,7 @@ experiences:
     experiences:
         - role: Senior Technological Expert/Researcher
           time: September 2018 -Present
+          company: Telefonica, Barcelona
           details: DevOps/RF/Researcher. Usually playing with 3G/4G RAN/Core elements cloud providers (AWS, Packet, K8S) and automization tools (Packer, Terraform, Pulumi, Salt..).  
           
         - role: Technological Expert
