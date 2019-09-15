@@ -57,25 +57,25 @@ experiences:
     title: Experiences
         
     experiences:
-        - role: Senior Technological Expert/Researcher
+        - role: Senior Technological Expert
           time: September 2018 -Present
           company: Telefonica, Barcelona
-          details: DevOps/RF/Researcher. Usually playing with 3G/4G RAN/Core elements cloud providers (AWS, Packet, K8S) and automization tools (Packer, Terraform, Pulumi, Salt..).  
+          details: DevOps/RF/Researcher at Internet Para Todos Telefonica Innovation project. Usually playing with 3G/4G RAN/Core elements cloud providers (AWS, Packet, K8S) and automization tools (Packer, Terraform, Pulumi, Salt..).  
           
         - role: Technological Expert
           time: 2017 - 2018
           company: Telefonica, Barcelona
-          details: DevOps/RF (played with RAN/Core networks, openstack, docker, terraform, ansible). 
+          details: DevOps/RF Engineering (3G/4G RAN/Core elements, Openstack, Docker, Terraform, Ansible) at Internet para Todos Telefonica Innovation project. 
 
         - role: Senior Researcher
           time: 2014 - 2017
           company: CTTC, Castelldefels
-          details: 5G EU project Research. Technical project management (H2020 Crosshaul, H2020 SCAVENGE, H2020 SANSA)
+          details: 5G EU project Research (5G-Crosshaul, SCAVENGE, SANSA,5G-Transformer). Spanish Ministery of Defense contract (DUAL-CR).
         
         - role: Research Engineer
           time: 2017 - 2014
           company: CTTC, Castelldefels
-          details: Phd Student. Wireless Prototyping.
+          details: Phd Student. Engineering oriented to Wireless Prototyping. EU-FP7 research at BeFemto, WIP. Industry contracts with Cisco and AVIAT networks.
 
         - role: Research Engineer
           time: 2005 - 2007
