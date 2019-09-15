@@ -32,7 +32,7 @@ sidebar:
         
 career-profile: 
     title: Career Profile
-    text: 'I currently work as a Senior Technology Expert in Telefonica Core Innovation. I usually work on the automatization and architecting/integration of innovative telco systems ready for production in rural environments. Prior to this, I was a senior researcher in the Mobile Networks department of Centro Tecnológico de Telecomunicaciones de Cataluña (CTTC). I received the BsC in 2005 and the MsC in 2007 from the Computer Architecture Department from the Universidad Politécnica de Cataluña (UPC). In 2008, I received the national scholarship from the Torres Quevedo subprogram (PTQ-08- 01-06440). In 2014 he received the PhD from the Computer Architecture Department of the UPC. In CTTC I made PoCs for 3G/4G mobile networks. I have co-authored more than 50 international conference and journal publications.'
+    text: 'I currently work as a Senior Technology Expert in Telefonica Core Innovation. I usually work on the automation and architecting/integration of innovative telco systems ready for production in rural environments. Prior to this, I was a senior researcher in the Mobile Networks department of Centro Tecnológico de Telecomunicaciones de Cataluña (CTTC). I received the BsC in 2005 and the MsC in 2007 from the Computer Architecture Department from the Universidad Politécnica de Cataluña (UPC). In 2008, I received the national scholarship from the Torres Quevedo subprogram (PTQ-08- 01-06440). In 2014 he received the PhD from the Computer Architecture Department of the UPC. In CTTC I made PoCs for 3G/4G mobile networks. I have co-authored more than 50 international conference and journal publications.'
 
 
 studies: 
@@ -60,7 +60,7 @@ experiences:
         - role: Senior Technological Expert
           time: September 2018 -Present
           company: Telefonica, Barcelona
-          details: DevOps/RF/Researcher at Internet Para Todos Telefonica Innovation project. Usually playing with 3G/4G RAN/Core elements cloud providers (AWS, Packet, K8S) and automization tools (Packer, Terraform, Pulumi, Salt..).  
+          details: Research and DevOps/RF Engineering at Internet Para Todos Telefonica Innovation project. Usually playing with 3G/4G RAN/Core elements cloud providers (AWS, Packet, K8S) and automation tools (Packer, Terraform, Pulumi, Salt..).  
           
         - role: Technological Expert
           time: 2017 - 2018
