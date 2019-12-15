@@ -60,7 +60,7 @@ experiences:
         - role: Senior Technological Expert
           time: September 2018 -Present
           company: Telefonica, Barcelona
-          details: Research and DevOps/RF Engineering at Internet Para Todos Telefonica Innovation project. Usually playing with 3G/4G RAN/Core elements cloud providers (AWS, Packet, K8S), CI/CD (Jenkins, Concourse) and automation tools (Packer, Terraform, Pulumi, Salt..). Currently working for TIP on CI/CD for emerging telco openRAN systems.  
+          details: Research and DevOps/RF Engineering at Internet Para Todos Telefonica Innovation project. Usually playing with 3G/4G RAN/Core elements cloud providers (AWS, Packet, K8S), CI/CD (Jenkins, Concourse) and automation tools (Packer, Terraform, Pulumi, Salt..). Currently working for Telecom Infra Project (TIP) on CI/CD for emerging telco openRAN systems.  
           
         - role: Technological Expert
           time: 2017 - 2018
