@@ -60,12 +60,12 @@ experiences:
         - role: Senior Technological Expert
           time: March 2020-Present
           company: Telefonica, Barcelona
-          details: Fast prototyping/tech strategy of 5G Private networks. Building the CI of hybrid cloud infra (Azure, AWS, Azure Stack Edge, AWS Outpost, k8s on baremetal) hosting O-RAN, 5G Core, and third party security apps (lots of pipelines: a lifecycle for each microservice).
+          details: Fast prototyping/tech strategy of 5G Private networks. Building the CI of hybrid cloud infra (Azure, AWS, Azure Stack Edge, AWS Outpost, k8s on baremetal) hosting O-RAN, 5G Core, and third party security apps (lots of pipelines: a lifecycle for each microservice). Telecom Infra Project-Telef community lab owner.
 
         - role: Senior Technological Expert
           time: September 2018 -March 2020
           company: Telefonica, Barcelona
-          details: Research and DevOps/RF Engineering at Internet Para Todos Telefonica Innovation project. Usually playing with 3G/4G RAN/Core elements cloud providers (AWS, Packet, K8S), CI/CD (Jenkins, Concourse) and automation tools (Packer, Terraform, Pulumi, Salt..). Currently working for Telecom Infra Project (TIP) on CI/CD for emerging telco openRAN and openCore networks.
+          details: Research and DevOps/RF Engineering at Internet Para Todos Telefonica Innovation project. Usually playing with 3G/4G RAN/Core elements cloud providers (AWS, Packet, K8S), CI/CD (Jenkins, Concourse) and automation tools (Packer, Terraform, Pulumi, Salt..). Telecom Infra Project (TIP)-Telef community lab owner.
 
         - role: Technological Expert
           time: 2017 - 2018
