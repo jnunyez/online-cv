@@ -32,7 +32,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    text: 'I currently work as a Senior Technology Expert in Telefonica Core Innovation. I do (tech strategy)/prototyping/automation/development of 5G private networks. I worked on the automation and architecting/CI/CD of innovative for production in rural 4G environemnts. Prior to this, I was a senior researcher in the Mobile Networks department of Centro Tecnológico de Telecomunicaciones de Cataluña (CTTC). I received the BsC in 2005 and the MsC in 2007 from the Computer Architecture Department from the Universidad Politécnica de Cataluña (UPC). In 2008, I received the national scholarship from the Torres Quevedo subprogram (PTQ-08- 01-06440). In 2014 he received the PhD from the Computer Architecture Department of the UPC. In CTTC I made PoCs for 3G/4G mobile networks. I have co-authored more than 50 international conference and journal publications.'
+    text: 'I currently work as a Senior Software Engineer in Redhat CTO Office. I do/did (tech strategy)/prototyping/automation/development of telco/https://scholar.google.com/citations?user=WnsPwOcAAAAJ&hl=en5G things. I worked on the automation and architecting/CI/CD of innovative for production in rural 4G environemnts. Prior to this, I was a senior researcher in the Mobile Networks department of Centro Tecnológico de Telecomunicaciones de Cataluña (CTTC). I received the BsC in 2005 and the MsC in 2007 from the Computer Architecture Department from the Universidad Politécnica de Cataluña (UPC). In 2008, I received the national scholarship from the Torres Quevedo subprogram (PTQ-08- 01-06440). In 2014 he received the PhD from the Computer Architecture Department of the UPC. In CTTC I made PoCs for 3G/4G mobile networks. I have co-authored more than 50 international conference and journal publications.'
 
 
 studies:
@@ -57,20 +57,15 @@ experiences:
     title: Experiences
 
     experiences:
-        - role: Senior Technological Expert
-          time: March 2020-Present
-          company: Telefonica, Barcelona
-          details: Fast prototyping/tech strategy of 5G Private networks. Building the CI of hybrid cloud infra (Azure, AWS, Azure Stack Edge, AWS Outpost, k8s) hosting O-RAN, 5G Core, and third party security apps. Telecom Infra Project-Telef community lab owner.
+        - role: Senior Software Engineer
+          time: May 2021 - Present
+          company: Redhat, Barcelona
+          details: Building/delivering 5G products.
 
         - role: Senior Technological Expert
-          time: September 2018 -March 2020
+          time: September 2017 -April 2021
           company: Telefonica, Barcelona
-          details: Research and DevOps/RF Engineering at Internet Para Todos Telefonica Innovation project. Usually playing with 3G/4G RAN/Core elements cloud providers (AWS, Packet, K8S), CI/CD (Jenkins, Concourse) and automation tools (Packer, Terraform, Pulumi, Salt..). Telecom Infra Project-Telef community lab owner.
-
-        - role: Technological Expert
-          time: 2017 - 2018
-          company: Telefonica, Barcelona
-          details: DevOps/RF Engineering (3G/4G RAN/Core elements, Openstack, Docker, Terraform, Ansible) at Internet para Todos Telefonica Innovation project.
+          details: Research and DevOps/RF Engineering at Internet Para Todos Telefonica Innovation project. Usually playing with 3G/4G/5G RAN/Core elements cloud providers (AWS, Azure, K8S), CI/CD (Jenkins, Concourse) and automation tools (Packer, Terraform, Pulumi, Salt..). Telecom Infra Project-Telef community lab owner.
 
         - role: Senior Researcher
           time: 2014 - 2017
@@ -78,7 +73,7 @@ experiences:
           details: 5G EU project Research (5G-Crosshaul, SCAVENGE, SANSA,5G-Transformer). Spanish Ministery of Defense contract (DUAL-CR).
 
         - role: Research Engineer
-          time: 2017 - 2014
+          time: 2007 - 2014
           company: CTTC, Castelldefels
           details: Phd Student. Engineering oriented to Wireless Prototyping. EU-FP7 research at BeFemto, WIP. Industry contracts with Cisco and AVIAT networks.
 
@@ -109,4 +104,4 @@ publications:
           authors: 'Josep Mangues-Bafalluy, Jorge Baranda, Giada Landi, José Núñez-Martínez, Ramon Casellas, Shahzoob Bilal Chundrigar, Antonio de la Oliva, Alain Mourad, et. al.'
           conference: '2019 Journal Computer Standards & Interfaces.'
 footer:
-    text: 'Updated: September 2019'
+    text: 'Updated: May 2021'
