@@ -10,7 +10,7 @@ sidebar:
 
     # Profile information
     name: Jose Nuñez
-    tagline: Innovation and Research at Telefonica Core Innovation.
+    tagline: Senior Software Enfineer
     pic: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -60,7 +60,7 @@ experiences:
         - role: Senior Software Engineer
           time: May 2021 - Present
           company: Redhat, Barcelona
-          details: Building/delivering/advocate 5G solutions using RH platforms.  
+          details: Building/delivering/advocate 5G solutions using RH platforms.
 
         - role: Senior Technological Expert
           time: September 2017 -April 2021
