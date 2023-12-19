@@ -32,7 +32,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    text: 'I currently work as a Senior Software Engineer in Red Hat CTO Office. I do/did (tech strategy)/prototyping/automation/development for telco. Formerly, in Telefonica I worked on the Internet Para Todos initiative building 4G rural networks based on open telco network technologies such as OpenRAN and Loon. The challenge there was to provide connectivity in rural regions with low ARPU. In there I learnt about the importance of automation of the Life Cycle of infrastructure and telco SW. I acquired knowledge in Openstack/K8s clustering and automation tooling such as Hashicorp toolset and Ansible. Also in Telefonica I was in charge of assembling innovative private 5G connectivity  where I worked in partnership with multiple public cloud and 5G vendor providers.  Prior to this, I was a senior researcher in the Centro Tecnológico de Telecomunicaciones de Cataluña (CTTC). In CTTC, I had the pleasure to use my research on routing for wireless bachauls to lead  a collaboration with industry (Aviat Networks), leader of microwave transport solutions and contributed to many EU projects and industry grands. In 2008, I received the national scholarship from the Torres Quevedo subprogram (PTQ-08-01-06440). I have co-authored more than 50 international conference and journal publications.'
+    text: 'I joined Red Hat in 2021 after more than 16 years in the telecom industry both as a researcher in R&D and in Telefónica. I do/did (tech strategy)/prototyping/automation/development for telco. Formerly, in Telefonica I worked on the Internet Para Todos initiative building 4G rural networks based on open telco network technologies such as OpenRAN and Loon. The challenge there was to provide connectivity in rural regions with low ARPU. In there I learnt about the importance of automation of the Life Cycle of infrastructure and telco SW. I acquired knowledge in Openstack/K8s clustering and automation tooling such as Hashicorp toolset and Ansible. Also in Telefonica I was in charge of assembling innovative private 5G connectivity  where I worked in partnership with multiple public cloud and 5G vendor providers.  Prior to this, I was a senior researcher in the Centro Tecnológico de Telecomunicaciones de Cataluña (CTTC). In CTTC, I had the pleasure to use my research on routing for wireless bachauls to lead  a collaboration with industry (Aviat Networks), leader of microwave transport solutions and contributed to many EU projects and industry grands. In 2008, I received the national scholarship from the Torres Quevedo subprogram (PTQ-08-01-06440). I have co-authored more than 50 international conference and journal publications.'
 
 studies:
 
@@ -59,7 +59,7 @@ experiences:
         - role: Senior Software Engineer
           time: May 2021 - Present
           company: Redhat, Barcelona
-          details: Building/delivering/advocate 5G solutions using RH platforms.
+          details: Building repeatable telco solutions using Red Hat products by engaging with key RAN partners like Intel, Silicom, and Altiostar, and customers like Telefonica.
 
         - role: Senior Technological Expert
           time: September 2017 -April 2021
