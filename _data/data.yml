@@ -10,7 +10,7 @@ sidebar:
 
     # Profile information
     name: Jose Nuñez
-    tagline: Senior Software Enfineer
+    tagline: Principal Software Enfineer
     pic: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -62,7 +62,7 @@ experiences:
           details: Strategic Telco Partner Architect serving as the primary technical bridge between Red Hat and major global Network Equipment Providers (NEPs). Proven track record of architecting and delivering reference architectures that seamlessly integrate complex partner network functions (CNFs) onto Red Hat OpenShift, ultimately accelerating solution delivery for Tier-1 global operators.
 
         - role: Senior Software Engineer
-          time: May 2021 - Present
+          time: May 2021 - March 2024
           company: Redhat, Barcelona
           details: Building repeatable telco solutions using Red Hat products by engaging with key RAN partners like Intel, Silicom, and Altiostar, and customers like Telefonica.
 
@@ -108,4 +108,4 @@ publications:
           authors: 'Josep Mangues-Bafalluy, Jorge Baranda, Giada Landi, José Núñez-Martínez, Ramon Casellas, Shahzoob Bilal Chundrigar, Antonio de la Oliva, Alain Mourad, et. al.'
           conference: '2019 Journal Computer Standards & Interfaces.'
 footer:
-    text: 'Updated: April 2024'
+    text: 'Updated: May 2026'
